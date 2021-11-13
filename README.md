@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GitProject1
 This is the link to the hosted project on Netlify
 
